@@ -1,7 +1,3 @@
-// WHEN I click the save button for that time block
-// THEN the text for that event is saved in local storage
-// WHEN I refresh the page
-// THEN the saved events persist
 //found a way to display date here https://stackoverflow.com/questions/1531093/how-do-i-get-the-current-date-in-javascript
 var today = new Date();
 var dd = String(today.getDate()).padStart(2, '0');
