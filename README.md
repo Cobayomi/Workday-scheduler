@@ -1,9 +1,13 @@
 # Workday-scheduler
 
-##Create a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+Description
+This challenge assignment is a simple app that allows you to schedule things into your work day. Once you have added events they should stay on the page even when you refresh the browser.
+Usage
+To use the app simply click on the boxes to the right of the hour you would like to add an event to and once done typing the event click the blue save button to the right of the text box to save the event to local storage!
 
-##Project Challenge Description
-GIVEN I am using a daily planner to create a schedule WHEN I open the planner THEN the current day is displayed at the top of the calendar WHEN I scroll down THEN I am presented with time blocks for standard business hours WHEN I view the time blocks for that day THEN each time block is color-coded to indicate whether it is in the past, present, or future WHEN I click into a time block THEN I can enter an event WHEN I click the save button for that time block THEN the text for that event is saved in local storage WHEN I refresh the page THEN the saved events persist
+Credits
+This project would not be possible without the starter code for the website. As a beginner web developer, I have minimal understanding of these coding languages. The starter code allowed me to focus on particular challenges and fixes while looking at already executed code to help guide me.
+
 
 ![screenshotimage](https://user-images.githubusercontent.com/111473151/215247824-37ccab10-0925-4d2d-aa0b-b9615e85eb49.PNG)
 
